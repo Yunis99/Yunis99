@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yunis Ibrahimov</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yunis99&label=Profile%20views&color=0e75b6&style=flat" alt="yunis99" /> </p>
 <h3>About Me: </h3>
-<div style="margin-left: 40px;">
+<div style="margin-left: 80px;">
   <ul>
     <li>I am a motivated and detail-oriented Computer Engineering student with a strong foundation in Data Science, Machine Learning and CyberSecurity.</li>
     <li>Through academic projects, bootcamps and professional training, I have gained hands-on experience with Python, R, SQL, Tableau and data visualization tools.</li>
@@ -14,8 +14,51 @@
 <p align="left">
   <a href="https://linkedin.com/in/yunis-ibrahimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunis-ibrahimov" height="30" width="40" /></a>
 </p>
+<h3>Skills and Expertise</h3>
+
+- **Programming Languages and Frameworks**: Python R Data Manipulation Visualization Data Cleaning Statistics Oracle SQL SPSS Tableau Machine Learning Big Data & Cloud Services
+
+- **Tools and Technologies**: Experienced with Tensorflow, Pytorch, Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn, Conda, Jupyter.
+  
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ibm.com/docs/en/spss-statistics" target="_blank" rel="noreferrer"><img src="https://www.kindpng.com/picc/m/296-2969947_spss-logo-png-transparent-png.png" alt="spss" width="40" height="40> </a> </p>
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.ibm.com/docs/en/spss-statistics" target="_blank" rel="noreferrer"><img src="https://www.kindpng.com/picc/m/296-2969947_spss-logo-png-transparent-png.png" alt="spss" width="40" height="40> </a>
+     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="scikit_learn" width="40" height="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png?20210102182532" alt="powerbi" width="40" height="40"/>
+</a>
+
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://w7.pngwing.com/pngs/674/247/png-transparent-tableau-software-computer-software-data-visualization-nyse-data-business-intelligence-software-software-company-symmetry-cross-thumbnail.png" alt="tableau" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+
+
+ </p>
 
 
 
